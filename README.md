@@ -1,11 +1,17 @@
-## Hi there 👋
+## Welcome to my Workspace 👋
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="magicpattern-mesh-gradient-1719140608960.jpeg"/>
+ <source media="(prefers-color-scheme: light)" srcset="magicpattern-mesh-gradient-1719140952315.jpeg"/>
+ <img alt="YOUR-ALT-TEXT" src="magicpattern-mesh-gradient-1719140608960.jpeg"/>
+</picture>
 
 <!--
 **pellypepper/PELLYPEPPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
