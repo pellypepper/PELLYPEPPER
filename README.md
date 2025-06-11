@@ -52,9 +52,6 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/pellypepper" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="24"/>
-  </a>
   &nbsp;
   <a href="mailto:ppeliance@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Gmail" width="24"/>
