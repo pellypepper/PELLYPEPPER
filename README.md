@@ -67,7 +67,7 @@
 
 ---
 
-<details>
+
   <summary>🛠️ <b>Languages & Tools</b></summary>
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" alt="JavaScript" width="24"/>
@@ -85,7 +85,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/zustand.svg" alt="Zustand" width="24"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redux.svg" alt="Redux" width="24"/>
   </p>
-</details>
+
 
 ---
 
