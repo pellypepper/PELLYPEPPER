@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <b>🔭 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Open for Collaboration</b>
+  <b>🔭 Full Stack Developer | Software Engineer | 🚀 Open for Collaboration</b>
 </p>
 
 ---
